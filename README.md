@@ -1,6 +1,6 @@
 # Bushcraft Components
 
-## **No Frameworks**, **No** Dependencies
+## **No Frameworks**, **No** Libraries, **No** Dependencies!
 
 * [IconMeister.github.io](https://iconmeister.github.io)  
 ``<svg-icon>`` without any dependencies or external SVG files. Pick from 5000+ icons from famous icons sets
