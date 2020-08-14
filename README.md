@@ -1,14 +1,14 @@
 # bushcraft.github.io
 Bushcraft Components
 
-* iconmeister.github.io  
+* https://iconmeister.github.io  
 ``<svg-icon>`` without any dependencies or eternal files
 
-* cardmeister.github.io  
+* https://cardmeister.github.io  
 52 Playingcards in a 16 KB Custom Element
 
-* flagmeister.github.io  
+* https://flagmeister.github.io  
 All SVG flags
 
-* chessmeister.github.io  
+* https://chessmeister.github.io  
 Chessboard Component
