@@ -2,14 +2,14 @@
 
 ## **No Frameworks**, **No** Dependencies
 
-* [https://iconmeister.github.io](https://iconmeister.github.io)
+* [IconMeister.github.io](https://iconmeister.github.io)  
 ``<svg-icon>`` without any dependencies or external SVG files. Pick from 5000+ icons from famous icons sets
 
-* [https://cardmeister.github.io](https://cardmeister.github.io)
+* [CardMeister.github.io](https://cardmeister.github.io)  
 52 Playingcards in a 16 KB Custom Element (well, 64 KB without the card trick)
 
-* [https://flagmeister.github.io](https://flagmeister.github.io)
+* [FlagMeister.github.io](https://flagmeister.github.io)  
 All SVG flags in one Custom Element
 
-* [https://chessmeister.github.io](https://chessmeister.github.io)
+* [ChessMeister.github.io](https://chessmeister.github.io)  
 Play Chess
